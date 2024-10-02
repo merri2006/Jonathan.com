@@ -1,0 +1,184 @@
+.gowun-batang-regular {
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gowun-batang-bold {
+  font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+body{
+    margin:0;
+    background:white;
+    border:0;
+    font-family:san-serif;
+}
+header{
+    background:transparent;
+    padding-top:45px;
+    padding-bottom:45px;
+}
+.name{
+    font-weight:999;
+    font-size:65px;
+    letter-spacing:10px;
+    display:inline;
+    padding-left:65px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.j{
+    color:#ff7300;
+}
+.con{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.container{
+    background:transparent;
+    padding:10px;
+    position:absolute;
+    margin-top:150px;
+    top:10%;
+}
+.he{
+    font-size:125px;
+    text-align:center;
+    padding-left:70px;
+    padding-right:70px;
+    font-weight:888;
+    letter-spacing:10px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.th{
+    color:#ff7300;
+}
+.show{
+    height:850px;
+    width:850px;
+    background:transparent;
+    object-fit:cover;
+    object-position:center center;
+    filter:drop-shadow(0 0 2.5px -2px rgba(0,0,0,0.3));
+    position:absolute;
+    top:65%;
+    left:-6%;
+}
+.BTNs{
+    background:transparent;
+    margin-top:1500px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+a{
+    text-decoration:none;
+}
+.br{
+    padding:15px;
+    background:#ff7300;
+    padding-left:60px;
+    padding-right:60px;
+    border:solid 8px #ff7300;
+    color:white;
+    font-weight:750;
+    letter-spacing:10px;
+    margin-left:400px;
+    transition:background 0.5s;
+    font-size:65px;   
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+}
+.br:hover{
+    
+}
+.b{
+    color:#ff7300;
+}
+.line{
+    background:transparent;
+    padding:10px;
+    margin-top:35px;
+}
+hr{
+    height:10px;
+    border-radius:50px;
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+    border:0;
+    background:#ff7300;
+    margin-left:488px;
+    margin-right:90px;
+}
+.kin{
+    position:absolute;
+    top:74%;
+    font-size:50px;
+    font-weight:555;
+    letter-spacing:10px;
+    text-align:center;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.i{
+    font-size:50px;
+    font-weight:555;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    color:black;
+    text-align:center;
+    padding-top:30px;
+    padding-bottom:30px;
+    letter-spacing:10px;
+}
+.cards{
+    background:transparent;
+    padding-top:4px;
+}
+.card{
+    background:#ff7300;
+    margin-left:50px;
+    color:white;
+    margin-right:50px;
+    transition:background 0.2s;
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+}
+.card:hover{
+    color:black;
+    background:white;
+}
+.heading{
+    font-size:60px;
+    font-weight:666;
+    letter-spacing:10px;
+    text-align:center;
+    padding-top:65px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.description{
+    font-size:40px;
+    text-align:center;
+    padding-left:80px;
+    padding-right:80px;
+    font-weight:400;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    padding-bottom:65px;
+}
+.footer{
+    background:transparent;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:40px;
+    margin-bottom:80px;
+}
+.end{
+    font-size:68px;
+    font-weight:666;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    color:black;
+    letter-spacing:10px;
+    transition:letter-spacing 1s;
+}
+.end:hover{
+    letter-spacing:50px;
+}

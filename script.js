@@ -1,0 +1,1 @@
+alert("Welcome to my portfolio, tap the image in the middle to access the page")
